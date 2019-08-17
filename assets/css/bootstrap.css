@@ -2583,14 +2583,14 @@ fieldset:disabled a.btn {
 
 /* line 64, node_modules/bootstrap/scss/_buttons.scss */
 .btn-primary {
-  color: #fff;
-  background-color: #bd081c;
-  border-color: #bd081c; }
+  color: #bd081c;
+  background-color: #fff;
+  border-color:  #fff;}
   /* line 13, node_modules/bootstrap/scss/mixins/_hover.scss */
   .btn-primary:hover {
-    color: #fff;
-    background-color: #980617;
-    border-color: #8c0615; }
+    color: #8c0615;
+    background-color: #fff;
+    border-color:#fff; }
   /* line 18, node_modules/bootstrap/scss/mixins/_buttons.scss */
   .btn-primary:focus, .btn-primary.focus {
     -webkit-box-shadow: 0 0 0 0.2rem rgba(189, 8, 28, 0.5);
